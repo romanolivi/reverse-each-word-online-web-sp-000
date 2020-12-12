@@ -3,7 +3,6 @@ def reverse_each_word(sentence)
   sentence.split("")
   array << sentence
   array.reverse 
-  end
 end
 
 
